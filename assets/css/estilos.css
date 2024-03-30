@@ -17,7 +17,19 @@ body {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: top;
+}
+
+#mis-trabajos .image-top.desafio-landing {
+  background-image: url('../img/desafio2-landing.png');
+}
+
+#mis-trabajos .image-top.desafio-iguana {
+  background-image: url('../img/desafio3-iguana.png');
+}
+
+#mis-trabajos .image-top.desafio-cuppon {
+  background-image: url('../img/desafio4-cuppon.png');
 }
 
 /* Contacto */
